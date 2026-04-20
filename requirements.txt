@@ -1,0 +1,5 @@
+requests==2.31.0
+pandas==2.1.4
+numpy==1.26.4
+eth-account==0.11.0
+flask==3.0.3
